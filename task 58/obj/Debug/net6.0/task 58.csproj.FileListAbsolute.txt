@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Рабочий стол\GeekBrains\3 Знакомство с языками программирования\Семинар 8\Task-54-56-58-62\Task\task 58\bin\Debug\net6.0\task 58.exe
+C:\Users\User\OneDrive\Рабочий стол\GeekBrains\3 Знакомство с языками программирования\Семинар 8\Task-54-56-58-62\Task\task 58\bin\Debug\net6.0\task 58.deps.json
+C:\Users\User\OneDrive\Рабочий стол\GeekBrains\3 Знакомство с языками программирования\Семинар 8\Task-54-56-58-62\Task\task 58\bin\Debug\net6.0\task 58.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\GeekBrains\3 Знакомство с языками программирования\Семинар 8\Task-54-56-58-62\Task\task 58\bin\Debug\net6.0\task 58.dll
+C:\Users\User\OneDrive\Рабочий стол\GeekBrains\3 Знакомство с языками программирования\Семинар 8\Task-54-56-58-62\Task\task 58\bin\Debug\net6.0\task 58.pdb
+C:\Users\User\OneDrive\Рабочий стол\GeekBrains\3 Знакомство с языками программирования\Семинар 8\Task-54-56-58-62\Task\task 58\obj\Debug\net6.0\task 58.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\GeekBrains\3 Знакомство с языками программирования\Семинар 8\Task-54-56-58-62\Task\task 58\obj\Debug\net6.0\task 58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\GeekBrains\3 Знакомство с языками программирования\Семинар 8\Task-54-56-58-62\Task\task 58\obj\Debug\net6.0\task 58.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\GeekBrains\3 Знакомство с языками программирования\Семинар 8\Task-54-56-58-62\Task\task 58\obj\Debug\net6.0\task 58.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\GeekBrains\3 Знакомство с языками программирования\Семинар 8\Task-54-56-58-62\Task\task 58\obj\Debug\net6.0\task 58.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\GeekBrains\3 Знакомство с языками программирования\Семинар 8\Task-54-56-58-62\Task\task 58\obj\Debug\net6.0\task 58.dll
+C:\Users\User\OneDrive\Рабочий стол\GeekBrains\3 Знакомство с языками программирования\Семинар 8\Task-54-56-58-62\Task\task 58\obj\Debug\net6.0\refint\task 58.dll
+C:\Users\User\OneDrive\Рабочий стол\GeekBrains\3 Знакомство с языками программирования\Семинар 8\Task-54-56-58-62\Task\task 58\obj\Debug\net6.0\task 58.pdb
+C:\Users\User\OneDrive\Рабочий стол\GeekBrains\3 Знакомство с языками программирования\Семинар 8\Task-54-56-58-62\Task\task 58\obj\Debug\net6.0\task 58.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\GeekBrains\3 Знакомство с языками программирования\Семинар 8\Task-54-56-58-62\Task\task 58\obj\Debug\net6.0\ref\task 58.dll
